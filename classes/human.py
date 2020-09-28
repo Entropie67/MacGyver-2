@@ -63,3 +63,6 @@ class Human:
                     self.sprite_y -= 1
                     #++ The Position in pixel:
                     self.y = self.sprite_y * SPRITE_SIZE
+       # if self.labyrinthe.grid[self.sprite_y-1][self.sprite_x] not in ['0', 'a']:
+            # print("objets ramassés")
+       
